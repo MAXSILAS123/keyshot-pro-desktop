@@ -1,0 +1,8 @@
+src/** linguist-detectable
+docs/** linguist-vendored  
+*.min.js linguist-generated
+*.woff2 binary
+*.svg text
+docs/**/*.html linguist-vendored
+* text=auto eol=lf
+*.ts linguist-detectable
